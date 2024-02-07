@@ -1,0 +1,29 @@
+body {
+  background-color: antiquewhite;
+}
+.container {
+  background-color: wheat;
+  /* display: flex; */
+  border-radius: 10px;
+  position: relative;
+  margin-top: 50px;
+}
+.btn {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+}
+h2 {
+  margin: 30px;
+  padding: 10px;
+}
+.dog_img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: 30px;
+
+  width: 50%;
+  height: 50%;
+}
